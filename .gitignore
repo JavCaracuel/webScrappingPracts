@@ -2,7 +2,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
-data_watch/
+data_watchx/
 # C extensions
 *.so
 
